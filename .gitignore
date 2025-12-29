@@ -89,3 +89,6 @@ results/
 .vscode/
 *.swp
 *.swo
+
+# uv
+.python-version
