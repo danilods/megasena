@@ -1,8 +1,5 @@
-# MEGA-SENA - Analise Estrategica e Plano de Investimento
+# MEGA-SENA - Analise Estrategica 
 
-**Orcamento:** R$ 2.500,00
-**Data da Analise:** 29/12/2025
-**Ultimo Concurso Analisado:** 2954 (20/12/2025)
 
 ---
 
@@ -14,8 +11,6 @@
 | Periodo historico | 11/03/1996 a 20/12/2025 |
 | Numeros selecionados | 11 |
 | Total de jogos gerados | 462 |
-| Investimento total | R$ 2.310,00 |
-| Saldo restante | R$ 190,00 |
 | Jogos com parametros ideais | 395 |
 
 ---
